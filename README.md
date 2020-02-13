@@ -1,2 +1,3 @@
-# PHPPOO
- 
+# Curso em Vídeo - PHP Orientado a Objetos
+## Ainda em andamento...  
+Estou aprendendo PHP orientado a objetos com o Guanabara do canal Curso em Vídeo, e aqui está as aulas e exercícios realizados com ele.

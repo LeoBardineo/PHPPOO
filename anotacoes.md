@@ -32,3 +32,5 @@ Método construtor, CONSTRUCT, serve para executar certos comandos ao instanciar
 # ---------------------------------------------------------------------- #
 
 A Orientação a objetos tem 3 pilares. E H P - Encapsulamento, Herança, Polimorfismo
+
+Classes abstratas não podem ser instanciadas

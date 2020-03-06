@@ -45,5 +45,3 @@ abstract class Pessoa{
         $this->experiencia = $experiencia;
     }
 }
-
-?>

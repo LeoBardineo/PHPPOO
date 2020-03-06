@@ -63,5 +63,3 @@ class Video implements AcoesVideo{
         $this->setCurtidas($this->getCurtidas()+1);
     }
 }
-
-?>

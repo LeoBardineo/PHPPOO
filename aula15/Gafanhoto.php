@@ -31,5 +31,3 @@ class Gafanhoto extends Pessoa{
     }
 
 }
-
-?>

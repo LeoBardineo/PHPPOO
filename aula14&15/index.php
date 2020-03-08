@@ -19,6 +19,13 @@
         $g[0] = new Gafanhoto("Jubileu", 22, "M", "Juba");
 
         print_r($g);
+
+        $vis[0] = new Visualizacao($g[0], $v[0]);
+        $vis[1] = new Visualizacao($g[0], $v[1]);
+        $vis[0]->avaliar();
+        $vis[1]->avaliarPorc(8.5);
+
+        print_r($vis[0]);
     ?>
 </body>
 </html>
